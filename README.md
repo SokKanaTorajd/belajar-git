@@ -10,3 +10,5 @@ Menggunakan Percabangan untuk Mencegah Konflik
 Perbedaan Git checkout, Git Reset, dan Git Revert
 Bekerja dengan Remote Repositori
 Menggunakan Git Pull dan Git Fetch
+
+I wrote this line in wsl2-ubuntu20.0.4
